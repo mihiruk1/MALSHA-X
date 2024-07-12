@@ -1,6 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＶＡＪＩＲＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F02&lines=ＭＡＬＳＨＡ_Ｘ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
   
 <div align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/VajiraTech">
-    <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
+    <img src="https://telegra.ph/file/c7c111f1f480d4ef62550.jpg"  width="700px">
 </a>
 <hr>
 
@@ -21,7 +21,7 @@
 
 ## JOIN MY WHATSAPP CHANNEL
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/KnkAjmtcTseEzXobrzpPYR)
 
 
 
@@ -29,15 +29,15 @@
 
 ## CONTACT OWNER
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94719199757)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94778764083)
 
 ## JOIN SUPPORT GROUP
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/KnkAjmtcTseEzXobrzpPYR)
 
 ## MY YT CHANNEL
 
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gamingewingyt6216) 
+[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://www.youtube.com/@Mihiruk_Dilshan) 
 
 </details>
 
@@ -75,7 +75,7 @@
 </div>
 
 
-## HOW TO DEPLOY 🧚 VAJIRA - ＭＤ 🧚
+## HOW TO DEPLOY 🧚 MALSHA X - ＭＤ 🧚
 
 1) 𝙵𝙸𝚁𝚂𝚃 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾.
 2) 𝚂𝙲𝙰𝙽 𝚃𝙷𝙴 𝚀𝚁 𝚃𝙷𝙴𝙽 𝚆𝙸𝙻𝙻 𝙲𝙾𝙼𝙴 𝚂𝙴𝚂𝚂𝙸𝙾𝙽 𝙸𝙳.
@@ -86,12 +86,5 @@
 
 ## THANKS TO 👨‍💻
 
-• Asif King - Web Design
-
-• Kasun - Testing
-
-• Danidu Nirmal - Logo Design
-
-• Ushani - Voice Helper
-
+• VAJIRA MD TEAM
 
